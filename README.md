@@ -159,4 +159,5 @@ gtm-account-prioritization-system/
     ├── 06-python-analysis.png
     └── 07-sql-analysis.png
 
+
 Note: Priority tiers represent the strength of the GTM signals detected by this system, not the overall quality, size, or success of a company. A Tier 3 account simply means that fewer qualifying signals were observed at the time of analysis.
