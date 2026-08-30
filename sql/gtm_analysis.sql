@@ -1,3 +1,5 @@
+#GTM SQL Data Analysis
+
 -- Q1 - How many companies are in the dataset?
 SELECT COUNT(company_name) AS total_companies
 FROM target_accounts
